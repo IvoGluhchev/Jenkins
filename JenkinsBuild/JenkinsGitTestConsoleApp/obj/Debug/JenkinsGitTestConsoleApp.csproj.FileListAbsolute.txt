@@ -1,0 +1,1 @@
+C:\Users\Ivo\Desktop\Jenkins\JenkinsBuild\JenkinsGitTestConsoleApp\bin\Debug\JenkinsGitTestConsoleApp.exe.config
